@@ -92,6 +92,8 @@
 		{
 			"name": "iconfont snippets",
 			"details": "https://github.com/badprint/ST-iconFont-snippets",
+			"labels": ["snippets", "icon_fonts", "fonts"],
+			"author": "Amos Lee",
 			"releases": [
 				{
 					"sublime_text": "*",
